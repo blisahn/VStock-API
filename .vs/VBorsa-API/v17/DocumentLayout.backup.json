@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3359DC-1F6D-43E0-99CA-6A54DBE9E9DB}|VBorsa-API.Persistence\\VBorsa-API.Persistence\\VBorsa-API.Persistence.csproj|c:\\users\\sahin\\desktop\\vakifbank-proje\\vborsa-api\\vborsa-api\\vborsa-api.persistence\\vborsa-api.persistence\\seed\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3359DC-1F6D-43E0-99CA-6A54DBE9E9DB}|VBorsa-API.Persistence\\VBorsa-API.Persistence\\VBorsa-API.Persistence.csproj|solutionrelative:vborsa-api.persistence\\vborsa-api.persistence\\seed\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363ABD13-9F4D-473E-967F-E7199582E98A}|VBorsa-API.Core\\VBorsa-API.Core\\VBorsa-API.Core.csproj|c:\\users\\sahin\\desktop\\vakifbank-proje\\vborsa-api\\vborsa-api\\vborsa-api.core\\vborsa-api.core\\entities\\identity\\helpers\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363ABD13-9F4D-473E-967F-E7199582E98A}|VBorsa-API.Core\\VBorsa-API.Core\\VBorsa-API.Core.csproj|solutionrelative:vborsa-api.core\\vborsa-api.core\\entities\\identity\\helpers\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7245B3-A264-4201-8D6A-3A219DA7723E}|VBorsa-API.Presentation\\VBorsa-API.Presentation\\VBorsa-API.Presentation.csproj|c:\\users\\sahin\\desktop\\vakifbank-proje\\vborsa-api\\vborsa-api\\vborsa-api.presentation\\vborsa-api.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7245B3-A264-4201-8D6A-3A219DA7723E}|VBorsa-API.Presentation\\VBorsa-API.Presentation\\VBorsa-API.Presentation.csproj|solutionrelative:vborsa-api.presentation\\vborsa-api.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D118157-2C5C-4645-BE3F-9732B2D38EB8}|VBorsa-API.Application\\VBorsa-API.Application\\VBorsa-API.Application.csproj|c:\\users\\sahin\\desktop\\vakifbank-proje\\vborsa-api\\vborsa-api\\vborsa-api.application\\vborsa-api.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D118157-2C5C-4645-BE3F-9732B2D38EB8}|VBorsa-API.Application\\VBorsa-API.Application\\VBorsa-API.Application.csproj|solutionrelative:vborsa-api.application\\vborsa-api.application\\features\\commands\\appuser\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7245B3-A264-4201-8D6A-3A219DA7723E}|VBorsa-API.Presentation\\VBorsa-API.Presentation\\VBorsa-API.Presentation.csproj|c:\\users\\sahin\\desktop\\vakifbank-proje\\vborsa-api\\vborsa-api\\vborsa-api.presentation\\vborsa-api.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7245B3-A264-4201-8D6A-3A219DA7723E}|VBorsa-API.Presentation\\VBorsa-API.Presentation\\VBorsa-API.Presentation.csproj|solutionrelative:vborsa-api.presentation\\vborsa-api.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D118157-2C5C-4645-BE3F-9732B2D38EB8}|VBorsa-API.Application\\VBorsa-API.Application\\VBorsa-API.Application.csproj|c:\\users\\sahin\\desktop\\vakifbank-proje\\vborsa-api\\vborsa-api\\vborsa-api.application\\vborsa-api.application\\features\\commands\\appuser\\updateprofile\\updateprofilecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D118157-2C5C-4645-BE3F-9732B2D38EB8}|VBorsa-API.Application\\VBorsa-API.Application\\VBorsa-API.Application.csproj|solutionrelative:vborsa-api.application\\vborsa-api.application\\features\\commands\\appuser\\updateprofile\\updateprofilecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:43:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Persistence\\VBorsa-API.Persistence\\Seed\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "VBorsa-API.Persistence\\VBorsa-API.Persistence\\Seed\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Persistence\\VBorsa-API.Persistence\\Seed\\IdentitySeeder.cs*",
+              "RelativeToolTip": "VBorsa-API.Persistence\\VBorsa-API.Persistence\\Seed\\IdentitySeeder.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvycAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:43:31.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Core\\VBorsa-API.Core\\Entities\\Identity\\Helpers\\Permissions.cs",
+              "RelativeDocumentMoniker": "VBorsa-API.Core\\VBorsa-API.Core\\Entities\\Identity\\Helpers\\Permissions.cs",
+              "ToolTip": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Core\\VBorsa-API.Core\\Entities\\Identity\\Helpers\\Permissions.cs",
+              "RelativeToolTip": "VBorsa-API.Core\\VBorsa-API.Core\\Entities\\Identity\\Helpers\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:43:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProfileCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\UpdateProfile\\UpdateProfileCommandRequest.cs",
+              "RelativeDocumentMoniker": "VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\UpdateProfile\\UpdateProfileCommandRequest.cs",
+              "ToolTip": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\UpdateProfile\\UpdateProfileCommandRequest.cs",
+              "RelativeToolTip": "VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\UpdateProfile\\UpdateProfileCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:27:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "VBorsa-API.Application\\VBorsa-API.Application\\Features\\Commands\\AppUser\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:28:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VBorsa-API.Presentation\\VBorsa-API.Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwHYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:42:04.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

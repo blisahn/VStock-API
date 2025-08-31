@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\bin\Debug\net8.0\VBorsa-API.Application.deps.json
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\bin\Debug\net8.0\VBorsa-API.Application.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\bin\Debug\net8.0\VBorsa-API.Application.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\bin\Debug\net8.0\VBorsa-API.Core.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\bin\Debug\net8.0\VBorsa-API.Core.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.AssemblyInfo.cs
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-A.220697E0.Up2Date
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\refint\VBorsa-API.Application.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\VBorsa-API.Application.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Application\VBorsa-API.Application\obj\Debug\net8.0\ref\VBorsa-API.Application.dll

@@ -1,0 +1,17 @@
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Infrastructure.deps.json
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Infrastructure.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Infrastructure.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Application.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Core.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Application.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\bin\Debug\net8.0\VBorsa-API.Core.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.AssemblyInfo.cs
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-A.E8BF5B28.Up2Date
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\refint\VBorsa-API.Infrastructure.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\VBorsa-API.Infrastructure.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Infrastructure\VBorsa-API.Infrastructure\obj\Debug\net8.0\ref\VBorsa-API.Infrastructure.dll

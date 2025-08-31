@@ -1,0 +1,12 @@
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\bin\Debug\net8.0\VBorsa-API.Core.deps.json
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\bin\Debug\net8.0\VBorsa-API.Core.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\bin\Debug\net8.0\VBorsa-API.Core.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.AssemblyInfo.cs
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\refint\VBorsa-API.Core.dll
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\VBorsa-API.Core.pdb
+C:\Users\sahin\Desktop\vakifbank-proje\VBorsa-API\VBorsa-API\VBorsa-API.Core\VBorsa-API.Core\obj\Debug\net8.0\ref\VBorsa-API.Core.dll
