@@ -25,9 +25,8 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommandRequest
             Username = request.Username
         };
         var res = await _userService.CreateUserAsync(dto);
-        // res ?? .
         return res.Succeeded
-            ? Result.Success(res.Message)
+            ? Result.Success("Test")
             : Result.Failure(res.Message);
     }
 }

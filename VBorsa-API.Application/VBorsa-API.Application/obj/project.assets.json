@@ -2164,39 +2164,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sahin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/amos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\VBorsa-API.Application.csproj",
+      "projectUniqueName": "/home/amos/Desktop/development/v-stock/backend/VStock-API/VBorsa-API.Application/VBorsa-API.Application/VBorsa-API.Application.csproj",
       "projectName": "VBorsa-API.Application",
-      "projectPath": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\VBorsa-API.Application.csproj",
-      "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Application\\VBorsa-API.Application\\obj\\",
+      "projectPath": "/home/amos/Desktop/development/v-stock/backend/VStock-API/VBorsa-API.Application/VBorsa-API.Application/VBorsa-API.Application.csproj",
+      "packagesPath": "/home/amos/.nuget/packages/",
+      "outputPath": "/home/amos/Desktop/development/v-stock/backend/VStock-API/VBorsa-API.Application/VBorsa-API.Application/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/amos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Core\\VBorsa-API.Core\\VBorsa-API.Core.csproj": {
-              "projectPath": "C:\\Users\\sahin\\Desktop\\vakifbank-proje\\VBorsa-API\\VBorsa-API\\VBorsa-API.Core\\VBorsa-API.Core\\VBorsa-API.Core.csproj"
+            "/home/amos/Desktop/development/v-stock/backend/VStock-API/VBorsa-API.Core/VBorsa-API.Core/VBorsa-API.Core.csproj": {
+              "projectPath": "/home/amos/Desktop/development/v-stock/backend/VStock-API/VBorsa-API.Core/VBorsa-API.Core/VBorsa-API.Core.csproj"
             }
           }
         }
@@ -2210,8 +2203,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -2238,7 +2230,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
