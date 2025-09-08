@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VBorsa-API.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcaf7274de8c1b100ba8a6d9cfbe3676e83595f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d7f3fb56d9ea1211221d046c312b58759f39de")]
 [assembly: System.Reflection.AssemblyProductAttribute("VBorsa-API.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VBorsa-API.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
